@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "ysj-collab-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "lib0": "^0.2.115",
+    "quill-cursors": "^4.0.4",
+    "ws": "^8.16.0",
+    "y-redis": "^1.0.3",
+    "y-websocket": "^1.5.4",
+    "yjs": "^13.6.27"
+  },
+  "description": ""
+}

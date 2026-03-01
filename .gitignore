@@ -1,0 +1,35 @@
+# Java/Backend 构建产物
+backend/collabedit/target/
+backend/collabedit/.idea/
+backend/collabedit/*.iml
+backend/collabedit/logs/
+backend/collabedit/tmp/
+backend/collabedit/.DS_Store
+backend/collabedit/uploads/
+backend/collabedit/.vscode/
+# Vue/Frontend 构建产物
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.production.local
+frontend/.npmrc
+frontend/.pnpm-store/
+frontend/yarn.lock
+frontend/.vscode/
+frontend/.DS_Store
+
+# Yjs-collab-server 构建产物
+yjs-collab-server/node_modules/
+yjs-collab-server/dist/
+yjs-collab-server/.env
+yjs-collab-server/logs/
+yjs-collab-server/.DS_Store
+
+# 通用忽略
+*.log
+*.zip
+*.rar
+.gitignore.local
+**/.vscode/*
