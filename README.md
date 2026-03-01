@@ -623,9 +623,6 @@ frontend/
 ```
 ysj-collab-server/
 ├── server.js                       # Yjs WebSocket 服务器
-├── server-ot-enhanced.js           # OT 增强服务器
-├── ot-engine.js                    # OT 算法引擎
-├── ot-coordinator.js               # OT 协调器
 └── package.json                    # 依赖配置
 ```
 
